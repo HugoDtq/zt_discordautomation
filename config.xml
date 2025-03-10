@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>zt_discordautomation</name>
+	<displayName><![CDATA[Discord Automation]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Permet de transmettre des informations sur un serveur Discord par l\'intermédiaire d\'un Webhook prédéfini]]></description>
+	<author><![CDATA[Agence Zetruc]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
